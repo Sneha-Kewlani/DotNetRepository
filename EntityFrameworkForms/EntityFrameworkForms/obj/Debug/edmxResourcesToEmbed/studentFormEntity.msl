@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StudentFormDBModelStoreContainer" CdmEntityContainer="StudentFormDBEntities">
+    <EntitySetMapping Name="StudentFormTables">
+      <EntityTypeMapping TypeName="StudentFormDBModel.StudentFormTable">
+        <MappingFragment StoreEntitySet="StudentFormTable">
+          <ScalarProperty Name="Marks" ColumnName="Marks" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="StudentID" ColumnName="StudentID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

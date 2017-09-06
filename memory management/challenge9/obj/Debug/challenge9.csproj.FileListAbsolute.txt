@@ -1,0 +1,6 @@
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge9\challenge9\bin\Debug\challenge9.exe.config
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge9\challenge9\bin\Debug\challenge9.exe
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge9\challenge9\bin\Debug\challenge9.pdb
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge9\challenge9\obj\Debug\challenge9.csprojResolveAssemblyReference.cache
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge9\challenge9\obj\Debug\challenge9.exe
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge9\challenge9\obj\Debug\challenge9.pdb

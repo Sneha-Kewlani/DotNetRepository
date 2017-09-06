@@ -1,0 +1,54 @@
+﻿Installing assembly 'C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.InstallLog
+   assemblypath = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.InstallLog
+   assemblypath = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.InstallLog
+   assemblypath = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.InstallLog
+   assemblypath = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.InstallLog
+   assemblypath = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe
+Committing assembly 'C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.InstallLog
+   assemblypath = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe
+Uninstalling assembly 'C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.InstallLog
+   assemblypath = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe
+Installing assembly 'C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.InstallLog
+   assemblypath = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe
+Installing service Folder Service...
+Service Folder Service has been successfully installed.
+Creating EventLog source Folder Service in log Application...
+Committing assembly 'C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.InstallLog
+   assemblypath = C:\Users\kewlani_s\Documents\Visual Studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe

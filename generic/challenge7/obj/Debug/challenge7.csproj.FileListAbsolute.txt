@@ -1,0 +1,6 @@
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge7\challenge7\bin\Debug\challenge7.exe.config
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge7\challenge7\bin\Debug\challenge7.exe
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge7\challenge7\bin\Debug\challenge7.pdb
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge7\challenge7\obj\Debug\challenge7.csprojResolveAssemblyReference.cache
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge7\challenge7\obj\Debug\challenge7.exe
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge7\challenge7\obj\Debug\challenge7.pdb

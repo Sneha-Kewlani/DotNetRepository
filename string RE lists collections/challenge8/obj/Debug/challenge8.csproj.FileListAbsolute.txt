@@ -1,0 +1,6 @@
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge8\challenge8\bin\Debug\challenge8.exe.config
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge8\challenge8\bin\Debug\challenge8.exe
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge8\challenge8\bin\Debug\challenge8.pdb
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge8\challenge8\obj\Debug\challenge8.csprojResolveAssemblyReference.cache
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge8\challenge8\obj\Debug\challenge8.exe
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge8\challenge8\obj\Debug\challenge8.pdb

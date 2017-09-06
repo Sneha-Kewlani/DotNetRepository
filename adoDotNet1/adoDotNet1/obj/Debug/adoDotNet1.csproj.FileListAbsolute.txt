@@ -1,0 +1,6 @@
+c:\users\kewlani_s\documents\visual studio 2015\Projects\adoDotNet1\adoDotNet1\bin\Debug\adoDotNet1.exe.config
+c:\users\kewlani_s\documents\visual studio 2015\Projects\adoDotNet1\adoDotNet1\bin\Debug\adoDotNet1.exe
+c:\users\kewlani_s\documents\visual studio 2015\Projects\adoDotNet1\adoDotNet1\bin\Debug\adoDotNet1.pdb
+c:\users\kewlani_s\documents\visual studio 2015\Projects\adoDotNet1\adoDotNet1\obj\Debug\adoDotNet1.csprojResolveAssemblyReference.cache
+c:\users\kewlani_s\documents\visual studio 2015\Projects\adoDotNet1\adoDotNet1\obj\Debug\adoDotNet1.exe
+c:\users\kewlani_s\documents\visual studio 2015\Projects\adoDotNet1\adoDotNet1\obj\Debug\adoDotNet1.pdb

@@ -1,0 +1,6 @@
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge6\challenge6\bin\Debug\challenge6.exe.config
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge6\challenge6\obj\Debug\challenge6.csprojResolveAssemblyReference.cache
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge6\challenge6\bin\Debug\challenge6.exe
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge6\challenge6\bin\Debug\challenge6.pdb
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge6\challenge6\obj\Debug\challenge6.exe
+c:\users\kewlani_s\documents\visual studio 2015\Projects\challenge6\challenge6\obj\Debug\challenge6.pdb

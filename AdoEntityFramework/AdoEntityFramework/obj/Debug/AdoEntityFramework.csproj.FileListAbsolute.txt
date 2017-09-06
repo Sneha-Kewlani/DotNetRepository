@@ -1,0 +1,10 @@
+c:\users\kewlani_s\documents\visual studio 2015\Projects\AdoEntityFramework\AdoEntityFramework\bin\Debug\AdoEntityFramework.dll.config
+c:\users\kewlani_s\documents\visual studio 2015\Projects\AdoEntityFramework\AdoEntityFramework\bin\Debug\AdoEntityFramework.dll
+c:\users\kewlani_s\documents\visual studio 2015\Projects\AdoEntityFramework\AdoEntityFramework\bin\Debug\AdoEntityFramework.pdb
+c:\users\kewlani_s\documents\visual studio 2015\Projects\AdoEntityFramework\AdoEntityFramework\bin\Debug\EntityFramework.dll
+c:\users\kewlani_s\documents\visual studio 2015\Projects\AdoEntityFramework\AdoEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kewlani_s\documents\visual studio 2015\Projects\AdoEntityFramework\AdoEntityFramework\bin\Debug\EntityFramework.xml
+c:\users\kewlani_s\documents\visual studio 2015\Projects\AdoEntityFramework\AdoEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kewlani_s\documents\visual studio 2015\Projects\AdoEntityFramework\AdoEntityFramework\obj\Debug\AdoEntityFramework.csprojResolveAssemblyReference.cache
+c:\users\kewlani_s\documents\visual studio 2015\Projects\AdoEntityFramework\AdoEntityFramework\obj\Debug\AdoEntityFramework.dll
+c:\users\kewlani_s\documents\visual studio 2015\Projects\AdoEntityFramework\AdoEntityFramework\obj\Debug\AdoEntityFramework.pdb
